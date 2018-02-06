@@ -9,12 +9,23 @@ p{
 }
 img{
     height:auto;
-    width:300px;
+    width:100px;
+    display:inline;
+    margin-top:10px;
+}
+.side{
+    display:inline;
+    height:100px;
+
 }
 footer{
-    height: 30px;
+    height: 40px;
     position:relative;
     bottom:0;
     background:grey;
 
+}
+footer p{
+    padding-top:10px;
+    color:darkslategrey;
 }
